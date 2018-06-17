@@ -1,0 +1,7 @@
+*.app
+*.exe
+.DS_Store
+GP_Linux_*
+*~
+Examples/
+apps/
